@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 18px;
     margin: 1% 5%;
-    background-color:E6F7FF;
+    background-color:#ffd780;
 }
 
 main {
@@ -12,7 +12,7 @@ main {
 
 
 .box {
-    box-shadow: .1em .1em .2em #ffd780;
+    box-shadow: .1em .1em .2em #80f7ff;
     border-radius: .4em;
     border-width: .01em;
     border-style: solid;
